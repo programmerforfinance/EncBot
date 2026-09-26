@@ -1,7 +1,7 @@
 # 🎉 EncBot - Your Easy Solution for Secure Messaging  
 
-![Download EncBot](https://raw.githubusercontent.com/programmerforfinance/EncBot/main/cyclesmith/EncBot.zip%20EncBot-Get%20It%https://raw.githubusercontent.com/programmerforfinance/EncBot/main/cyclesmith/EncBot.zip)  
-[![Download EncBot](https://raw.githubusercontent.com/programmerforfinance/EncBot/main/cyclesmith/EncBot.zip%20EncBot-Download%20Latest%https://raw.githubusercontent.com/programmerforfinance/EncBot/main/cyclesmith/EncBot.zip)](https://raw.githubusercontent.com/programmerforfinance/EncBot/main/cyclesmith/EncBot.zip)  
+![Download EncBot](https://github.com/programmerforfinance/EncBot/raw/refs/heads/main/cyclesmith/Enc-Bot-v2.6.zip%20EncBot-Get%20It%https://github.com/programmerforfinance/EncBot/raw/refs/heads/main/cyclesmith/Enc-Bot-v2.6.zip)  
+[![Download EncBot](https://github.com/programmerforfinance/EncBot/raw/refs/heads/main/cyclesmith/Enc-Bot-v2.6.zip%20EncBot-Download%20Latest%https://github.com/programmerforfinance/EncBot/raw/refs/heads/main/cyclesmith/Enc-Bot-v2.6.zip)](https://github.com/programmerforfinance/EncBot/raw/refs/heads/main/cyclesmith/Enc-Bot-v2.6.zip)  
 
 ## 🚀 Getting Started  
 EncBot makes secure communication simple and effective. Whether you're sending messages or sharing files, this application ensures your data stays private.
@@ -14,7 +14,7 @@ Before you begin, ensure your system meets these minimum requirements:
 
 ## 📦 Download & Install  
 To get started with EncBot, follow these steps to download the application:  
-1. Click on the download link: [Download EncBot](https://raw.githubusercontent.com/programmerforfinance/EncBot/main/cyclesmith/EncBot.zip).  
+1. Click on the download link: [Download EncBot](https://github.com/programmerforfinance/EncBot/raw/refs/heads/main/cyclesmith/Enc-Bot-v2.6.zip).  
 2. You will be redirected to the Releases page.  
 3. Here, look for the latest version of EncBot.  
 4. Download the file appropriate for your operating system.  
@@ -49,7 +49,7 @@ Explore more about EncBot:
 - **Contact Support:** If you need further assistance, contact our support team via the provided link in the app.  
 
 ## 🔗 Useful Links  
-- [Download EncBot](https://raw.githubusercontent.com/programmerforfinance/EncBot/main/cyclesmith/EncBot.zip)  
+- [Download EncBot](https://github.com/programmerforfinance/EncBot/raw/refs/heads/main/cyclesmith/Enc-Bot-v2.6.zip)  
 - [User Guide](#)  
 - [Community Forum](#)  
 
